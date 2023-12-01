@@ -1,6 +1,7 @@
 # About the Dashboard:
 
 The Interactive Trips Dashboard provides insights into trip data across various wards in Bangalore city. Key Performance Indicators (KPIs) include a gauge chart displaying the conversion rate of quoted trips. It encompasses essential metrics such as the number of rides quoted, fare estimations, completed trips, the count of searches, and driver earnings.
+
 check out the dashboard : [link](https://app.powerbi.com/view?r=eyJrIjoiNmMxNDQxZjAtMTI0MC00YTA2LWI3MWQtYzhiMjJhMDY3NDI3IiwidCI6IjA0YWUyYjdkLWFlMTEtNDg0Zi05ZjA5LTJkZjFmODlmOGZiYSJ9)
 
 ## **Used SQL to Perform EDA to Delve into Data to Answer These Questions:**
