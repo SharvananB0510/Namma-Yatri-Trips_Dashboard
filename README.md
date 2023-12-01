@@ -1,4 +1,4 @@
-# NAMMA YATRI Trips-Dashboard
+# About the Dashboard:
 
 The Interactive Trips Dashboard provides insights into trip data across various wards in Bangalore city. Key Performance Indicators (KPIs) include a gauge chart displaying the conversion rate of quoted trips. It encompasses essential metrics such as the number of rides quoted, fare estimations, completed trips, the count of searches, and driver earnings.
 
@@ -19,7 +19,7 @@ The Interactive Trips Dashboard provides insights into trip data across various 
 5. **High-Earning Drivers Recognition:**
     - Who are the top 5 earning drivers?
 
-## Tools Used :
+## Tools Used:
 - Power BI: for data visualization.
 - Excel: for transforming table columns and cleaning data.
 - SQL Workbench: for conducting Exploratory Data Analysis (EDA) and addressing queries.
